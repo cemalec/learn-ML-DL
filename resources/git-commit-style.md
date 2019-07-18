@@ -9,9 +9,7 @@ body (optional)
 footer (optional)
 
 ### Details
-Title should be no greater than 50 characters, should begin with a capital letter and do not end with a period.  
-Use an imperative tone to describe what a commit does, rather than what it did.  For example, use change; not changed or changes.  
-Use the body to explain the what and why of a commit, not the how.  The footer is optional and is used to reference issue tracker IDs.  
+Title should be no greater than 50 characters, should begin with a capital letter and do not end with a period.  Use an imperative tone to describe what a commit does, rather than what it did.  For example, use change; not changed or changes.  Use the body to explain the what and why of a commit, not the how.  The footer is optional and is used to reference issue tracker IDs.  
 
 ### Type
 The type is contained within the title and can be one of these types:
@@ -25,7 +23,7 @@ The type is contained within the title and can be one of these types:
   * test: adding tests, refactoring test; no production code change
   * chore: updating build tasks, package manager configs, etc; no production code change
 
->=====================  Example  ===========================  
+=====================  Example  ===========================  
 feat: Summarize changes in around 50 characters or less
 
 More detailed explanatory text, if necessary. Wrap it to about 72
@@ -42,15 +40,15 @@ change? Here's the place to explain them.
 
 Further paragraphs come after blank lines.
 
- - Bullet points are okay, too
+/ - Bullet points are okay, too
 
- - Typically a hyphen or asterisk is used for the bullet, preceded
+/ - Typically a hyphen or asterisk is used for the bullet, preceded
    by a single space, with blank lines in between, but conventions
    vary here
 
 If you use an issue tracker, put references to them at the bottom,
 like this:
 
-Resolves: #123
->See also: #456, #789  
-============================================================  
+Resolves: /#123
+See also: /#456, /#789  
+/============================================================  
