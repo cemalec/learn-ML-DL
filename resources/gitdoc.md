@@ -6,7 +6,7 @@ Pragya Rathore
 Pragya Rathore, studies VLSI Design at San Jose State University (2020)
 Answered Mar 7, 2016
 
-When you are Forking a repository you are creating a copy of repository under the GitHub Id. Any changes made to the original original repository will be **reflected back to your forked repository**. However, if you make any changes to your forked repository you will have to explicitly create a **pull request** to the original repository. When your pull request is approved by the administrator of the original repository, then your changes will be merged with the existing original code-base. Until then, your changes will be reflected only in the copy you forked.
+When you are Forking a repository you are creating a copy of repository under the GitHub Id. Any changes made to the original repository will be **reflected back to your forked repository**. However, if you make any changes to your forked repository you will have to explicitly create a **pull request** to the original repository. When your pull request is approved by the administrator of the original repository, then your changes will be merged with the existing original code-base. Until then, your changes will be reflected only in the copy you forked.
 
 A Clone is where you have proper duplication, and separation between, **two versions of a repository**. When one repository is amended, the new content must be actively copied to the other repository using a **push command**. And changes in the other repository are **fetched**.  
 /---------------------------------  
