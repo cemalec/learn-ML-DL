@@ -9,7 +9,7 @@ body (optional)
 footer (optional)
 
 ### Details
-Title should be no greater than 50 characters, should begin with a capital letter and do not end with a period.  Use an imperative tone to describe what a commit does, rather than what it did.  For example, use change; not changed or changes.  Use the body to explain the what and why of a commit, not the how.  The footer is optional and is used to reference issue tracker IDs.  
+**Title** should be no greater than 50 characters, should begin with a capital letter and do not end with a period.  Use an imperative tone to describe what a commit does, rather than what it did.  For example, use change; not changed or changes.  Use the **body** to explain the what and why of a commit, not the how.  The **footer** is optional and is used to reference issue tracker IDs.  
 
 ### Type
 The type is contained within the title and can be one of these types:
@@ -49,6 +49,7 @@ Further paragraphs come after blank lines.
 If you use an issue tracker, put references to them at the bottom,
 like this:
 
-Resolves: /#123
-See also: /#456, /#789  
+Resolves: #123
+See also: #456, #789  
 /============================================================  
+
