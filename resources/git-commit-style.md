@@ -49,7 +49,7 @@ Further paragraphs come after blank lines.
 If you use an issue tracker, put references to them at the bottom,
 like this:
 
-Resolves: #123
+Resolves: #123  
 See also: #456, #789  
 /============================================================  
 
