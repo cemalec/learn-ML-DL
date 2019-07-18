@@ -1,0 +1,4 @@
+Copy data to here.
+Untar.
+
+Try TensorFlow for loading CIFAR-10 dataset.
