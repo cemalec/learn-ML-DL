@@ -10,3 +10,11 @@ When you are Forking a repository you are creating a copy of repository under th
 
 A Clone is where you have proper duplication, and separation between, **two versions of a repository**. When one repository is amended, the new content must be actively copied to the other repository using a **push command**. And changes in the other repository are **fetched**.  
 /---------------------------------  
+
+### Git remove Forked Repo
+ - From my Git accout, goto forked repo to be removed.
+ - Next to name of repo - click on **Settings**
+ - Scroll all the way down to "Danger Zone" and select **Delte Repo**
+ - Go through security checks, retype password.
+ - Refresh repo list to verify that the forked repo is gone.
+ 
