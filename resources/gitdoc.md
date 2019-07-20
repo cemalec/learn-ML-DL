@@ -14,7 +14,7 @@ A Clone is where you have proper duplication, and separation between, **two vers
 ### Git remove Forked Repo
  - From my Git accout, goto forked repo to be removed.
  - Next to name of repo - click on **Settings**
- - Scroll all the way down to "Danger Zone" and select **Delte Repo**
- - Go through security checks, retype password.
+ - Scroll all the way down to "Danger Zone" and select **Delete Repo**
+ - Go through security checks, retype Github password is asked.
  - Refresh repo list to verify that the forked repo is gone.
  
