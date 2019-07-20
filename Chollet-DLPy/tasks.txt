@@ -1,0 +1,1 @@
+Upload exercises from Francois Chollet Deep Learning with Python book (c 2018)
