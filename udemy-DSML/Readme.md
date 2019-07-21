@@ -10,10 +10,8 @@ Date: 2018 March - 2019 July
 
 Author: Jennifer E Yoon in Leesburg, Virginia
 
-/================== More Class Info =====================================
-About the instructor  Jose Portilla
-4.5      Instructor Rating
-339,532  Reviews
+/================== More Class Info =====================================  
+**About the instructor:**  Jose Portilla; 4.5 Instructor Rating; 339,532  Reviews
 
 Jose Portilla
 Head of Data Science, Pierian Data Inc.
