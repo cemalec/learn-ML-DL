@@ -18,15 +18,15 @@ A Clone is where you have proper duplication, and separation between, **two vers
  - Go through security checks, retype Github password is asked.
  - Refresh repo list to verify that the forked repo is gone.
  
-### Git commit setting time zone
+### Git commit setting time zone - Copy image from StackOverflow.com
 ![add timezone to git commit](git-timezone.png)
 
 
 ### Add image using Markdown
 
->![alt text](http://url/to/img.png)
->I think you can link directly to the raw version of an image if it's stored in your repository. i.e.
->
->![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+/![alt text](http://url/to/img.png)  
+I think you can link directly to the raw version of an image if it's stored in your repository. i.e.  
+
+/![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)"  
 
 
