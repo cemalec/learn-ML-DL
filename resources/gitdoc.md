@@ -18,3 +18,5 @@ A Clone is where you have proper duplication, and separation between, **two vers
  - Go through security checks, retype Github password is asked.
  - Refresh repo list to verify that the forked repo is gone.
  
+### Git commit setting time zone
+
