@@ -1,5 +1,7 @@
 # My practice, Udemy.com Python Data Science Machine Learning Bootcamp
 
-** Date: **   2018 March - 2019 July
+Add some body text here.
 
-** Author: **   Jennifer E Yoon in Leesburg, Virginia
+**Date:**   2018 March - 2019 July
+
+**Author:**   Jennifer E Yoon in Leesburg, Virginia
