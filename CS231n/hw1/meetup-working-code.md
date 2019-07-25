@@ -6,10 +6,10 @@
    Two layer nn:
    https://github.com/cemalec/CS231/blob/master/assignment1/  
   
-   knn, svm 
+   knn, svm:  
    https://github.com/cemalec/CS231/blob/master/assignment1/knn.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py
-   ---
+   
    https://github.com/cemalec/CS231/blob/master/assignment1/svm.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/softmax.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/two_layer_net.ipynb  
