@@ -3,9 +3,10 @@
 
 ### Chris Malec:
 
-https://github.com/cemalec/CS231/blob/master/assignment1/  
+   Two layer nn:
+   https://github.com/cemalec/CS231/blob/master/assignment1/  
   
-   knn, svm, two layer nn  
+   knn, svm 
    https://github.com/cemalec/CS231/blob/master/assignment1/knn.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py
    ---
@@ -44,6 +45,7 @@ https://github.com/colleen-chen/learn--cs231n-
 ### Peter -- to add
 
    softmax code part of codeshare file: 
+   https://github.com/JennEYoon/learn-ML-DL/blob/master/CS231n/hw1/codeshare_hw1b.py
 
 ### Jennifer Yoon -- to add  
 
