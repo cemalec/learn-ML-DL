@@ -14,7 +14,7 @@
    https://github.com/cemalec/CS231/blob/master/assignment1/softmax.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/two_layer_net.ipynb  
    
- - Math for svm, softmax, Back Prop: https://cemalec.github.io/main/    
+   Math for svm, softmax, Back Prop: https://cemalec.github.io/main/    
    https://cemalec.github.io/Gradients_Softmax/  
    https://cemalec.github.io/Gradients_Hingeloss/  
    ttps://cemalec.github.io/Gradients_NN/ (edited)   
