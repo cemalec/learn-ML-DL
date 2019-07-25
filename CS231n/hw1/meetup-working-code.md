@@ -1,6 +1,9 @@
-# Meetup DSMLtalk Shared Links to Working Code, Assignment #1, cs231n class.  
-  
-### Chris Malec:  https://github.com/cemalec/CS231/blob/master/assignment1/  
+# Meetup Links to Working Code, Stanford cs231n Assignment 1
+
+
+### Chris Malec:
+
+https://github.com/cemalec/CS231/blob/master/assignment1/  
   
  - knn, svm, two layer nn  
    https://github.com/cemalec/CS231/blob/master/assignment1/knn.ipynb  
@@ -16,7 +19,9 @@
    ttps://cemalec.github.io/Gradients_NN/ (edited)   
    
    
-### Colleen Chen:  https://github.com/colleen-chen/learn--cs231n-
+### Colleen Chen: 
+
+https://github.com/colleen-chen/learn--cs231n-
 
  - Two layer nn:  
    https://github.com/colleen-chen/learn--cs231n-/blob/master/two_layer_net.ipynb  
@@ -30,18 +35,24 @@
    
    
 ### Nathan Bendich:     
+
    https://www.dropbox.com/s/llgiwyqril6ljms/cs231n_assn1___working_2-deep_NN.tar.xz?dl=0 . 
    You can probably just "double-click" on the file name too and something will pop up to decompress it.  Please let me know if you have any questions.  I can try to explain as best as possible while I'm not working on the next part of the assignment.   
-   >tar -xvf cs231n_assn1___working_2-deep_NN.tar.xz  (to unzip)
+   >tar -xvf cs231n_assn1___working_2-deep_NN.tar.xz  (to unzip)  
+   
+
 ### Peter -- to add
+
    softmax code part of codeshare file: 
 
 ### Jennifer Yoon -- to add  
 
+
 ### Any others?  
 
    
-# Resources  
+
+### Resources  
 
 Bishop, Pattern Rec & ML,  c2006.  
 Chp 5 is Neural Networks (p 225 book, p 245 in PDF format).  
