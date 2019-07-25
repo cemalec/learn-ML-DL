@@ -1,7 +1,7 @@
 # Meetup DSMLtalk Shared Links to Working Code, Assignment #1, cs231n class.  
-
+  
 ### Chris Malec:  https://github.com/cemalec/CS231/blob/master/assignment1/  
-
+  
  - knn, svm, two layer nn  
    https://github.com/cemalec/CS231/blob/master/assignment1/knn.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py
@@ -29,9 +29,12 @@
    https://github.com/colleen-chen/learn--cs231n-/blob/master/classifier/softmax.py  
    
    
-### Nathan -- to add   
-   
+### Nathan Bendich:     
+   https://www.dropbox.com/s/llgiwyqril6ljms/cs231n_assn1___working_2-deep_NN.tar.xz?dl=0 . 
+   You can probably just "double-click" on the file name too and something will pop up to decompress it.  Please let me know if you have any questions.  I can try to explain as best as possible while I'm not working on the next part of the assignment.   
+   >tar -xvf cs231n_assn1___working_2-deep_NN.tar.xz  (to unzip)
 ### Peter -- to add
+   softmax code part of codeshare file: 
 
 ### Jennifer Yoon -- to add  
 
@@ -50,3 +53,12 @@ https://www.coursera.org/learn/neural-networks-deep-learning/lecture/6dDj7/backp
 Coursera, deeplearning.ai, class4, activation-functions:  
 https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4dDC1/activation-functions  
 
+
+Eli Bendersky calls the Jacobian:
+https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/  
+**Nathan:** "The partial derivatives for the softmax are hard to derive by hand.  For the 2-layer fully-connected NN, it took me many many pages of notes.  Please keep going even if you have to write out pages and pages of notes over multiple days to understand it.  I had to.   One of the annoying points is that almost nothing is a scalar; everything is a vector, matrix, or higher rank tensor.  So to properly do the partial derivatives you have to take something this guy Eli Bendersky calls the Jacobian: https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/ "  
+
+Do CIFAR-10 Classifiers Generalize to CIFAR-10?  https://arxiv.org/abs/1806.00451  
+
+**Andrew D:**  Tensorflow library automatically loads famous datasets into numpy arrarys.
+https://www.tensorflow.org/api_docs/python/tf/keras/datasets/cifar10/load_data
