@@ -1,11 +1,11 @@
-# Meetup Links to Working Code, Stanford cs231n Assignment 1
+# Meetup Links to Working Code, Stanford cs231n Assignment 1  
 
 
 ### Chris Malec:
 
 https://github.com/cemalec/CS231/blob/master/assignment1/  
   
- - knn, svm, two layer nn  
+   knn, svm, two layer nn  
    https://github.com/cemalec/CS231/blob/master/assignment1/knn.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py
    ---
