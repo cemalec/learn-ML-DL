@@ -1,0 +1,29 @@
+Install notes 7/26/2019 9:23 AM
+
+Manually installed packages to conda3linux
+
+ * numpy
+ * pandas
+ * matplotlib
+ * jupyter notebook
+ * scikit-learn
+ * seaborn (includes statsmodels)
+ * pillow
+ * future
+
+
+Linux commands 
+
+mv  (rename file as well as move file to new path)
+$home  (goes to default directory, $home/jyoon )
+/mnt/c/python  (file structure on Windows)
+
+echo 'hello testing' > test.txt  (puts text into new file "test.txt")
+> test2.txt  (creates new file "test2.txt")
+cat > test3.txt  (alias for file test3.txt,  control x to save?)
+echo test2.txt  (prints content of text file to screen)
+
+nano  (text editor built-in)
+nano newfile.txt  (opens newfile)
+Control+s  (save)
+Control+x  (exit)
