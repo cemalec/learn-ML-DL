@@ -45,7 +45,14 @@ https://github.com/colleen-chen/learn--cs231n-
 ### Peter -- to add
 
    softmax code part of codeshare file: 
-   https://github.com/JennEYoon/learn-ML-DL/blob/master/CS231n/hw1/codeshare_hw1b.py
+   [a relative link](codeshare_hw1b.py)
+
+>      Markdown: relative link help:
+>      [a link](https://github.com/user/repo/blob/branch/other_file.md)
+>      …you can use a relative link:
+>
+>      [a relative link](other_file.md)
+
 
 ### Jennifer Yoon -- to add  
 
