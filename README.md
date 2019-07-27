@@ -30,3 +30,8 @@ Use a pull request to make corrections or to share additional information.  Typo
 
 ### History
 Repo started on 7/17/2019 as a Github public repo.
+
+### Author:
+Main author is Jennifer E. Yoon
+Contributors include members of a Meetup Group: 
+https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
