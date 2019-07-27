@@ -3,18 +3,18 @@
 
 ### Chris Malec:
 
-   Two layer nn:
    https://github.com/cemalec/CS231/blob/master/assignment1/  
-  
-   knn, svm:  
-   https://github.com/cemalec/CS231/blob/master/assignment1/knn.ipynb  
-   https://github.com/cemalec/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py
    
+   knn, svm, softmax, 2 layer nn:  
+   https://github.com/cemalec/CS231/blob/master/assignment1/knn.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/svm.ipynb  
    https://github.com/cemalec/CS231/blob/master/assignment1/softmax.ipynb  
+   https://github.com/cemalec/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py  
    https://github.com/cemalec/CS231/blob/master/assignment1/two_layer_net.ipynb  
    
-   Math for svm, softmax, Back Prop: https://cemalec.github.io/main/    
+   Math for svm, softmax, Back Prop:  
+   https://cemalec.github.io/main/    
+   
    https://cemalec.github.io/Gradients_Softmax/  
    https://cemalec.github.io/Gradients_Hingeloss/  
    ttps://cemalec.github.io/Gradients_NN/ (edited)   
@@ -37,12 +37,16 @@ https://github.com/colleen-chen/learn--cs231n-
    
 ### Nathan Bendich:     
 
+   2 layer nn in zip file:  
    https://www.dropbox.com/s/llgiwyqril6ljms/cs231n_assn1___working_2-deep_NN.tar.xz?dl=0 . 
-   You can probably just "double-click" on the file name too and something will pop up to decompress it.  Please let me know if you have any questions.  I can try to explain as best as possible while I'm not working on the next part of the assignment.   
+   
+   You can probably just "double-click" on the file name too and something will pop up to decompress it.  
+   Please let me know if you have any questions.  I can try to explain as best as possible while I'm not working 
+   on the next part of the assignment.   
    >tar -xvf cs231n_assn1___working_2-deep_NN.tar.xz  (to unzip)  
    
 
-### Peter -- to add
+### Peter 
 
    softmax code part of codeshare file: 
    [a relative link](codeshare_hw1b.py)
