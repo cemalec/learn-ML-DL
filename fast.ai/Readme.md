@@ -11,3 +11,9 @@ DL1 makes extensive use of custon library and functions in fastai v 1.0.  Not ea
 
 Commits made to my fork does not count towards Github contributions graph, bad!
 
+Verify that my fork is auto merging changes from remote upstream master.
+
+
+
+
+
