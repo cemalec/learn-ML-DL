@@ -63,22 +63,19 @@ https://github.com/colleen-chen/learn--cs231n-
 
 ### Resources  
 
-Bishop, Pattern Rec & ML,  c2006.  
-Chp 5 is Neural Networks (p 225 book, p 245 in PDF format).  
+**Jennifer:** Bishop, Pattern Rec & ML,  c2006.  
+Chp 5 is math of Neural Networks (p 225 book, p 245 in PDF format).  
 http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 
-Coursera, deeplearning.ai, class 1, back-prop:  
+**Colleen:** Coursera, deeplearning.ai, class 1, back-prop:  
 https://www.coursera.org/learn/neural-networks-deep-learning/lecture/6dDj7/backpropagation-intuition-optional  
 
-Coursera, deeplearning.ai, class4, activation-functions:  
+**Jennifer:** Coursera, deeplearning.ai, class4, activation-functions:  
 https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4dDC1/activation-functions  
 
-
-Eli Bendersky calls the Jacobian:
-https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/  
 **Nathan:** "The partial derivatives for the softmax are hard to derive by hand.  For the 2-layer fully-connected NN, it took me many many pages of notes.  Please keep going even if you have to write out pages and pages of notes over multiple days to understand it.  I had to.   One of the annoying points is that almost nothing is a scalar; everything is a vector, matrix, or higher rank tensor.  So to properly do the partial derivatives you have to take something this guy Eli Bendersky calls the Jacobian: https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/ "  
 
-Do CIFAR-10 Classifiers Generalize to CIFAR-10?  https://arxiv.org/abs/1806.00451  
+**Andrew D:** Do CIFAR-10 Classifiers Generalize to CIFAR-10?  https://arxiv.org/abs/1806.00451  
 
 **Andrew D:**  Tensorflow library automatically loads famous datasets into numpy arrarys.
 https://www.tensorflow.org/api_docs/python/tf/keras/datasets/cifar10/load_data
