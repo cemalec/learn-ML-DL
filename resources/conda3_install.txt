@@ -17,13 +17,42 @@ Linux commands
 mv  (rename file as well as move file to new path)
 $home  (goes to default directory, $home/jyoon )
 /mnt/c/python  (file structure on Windows)
+cd /  (goto root)
+rm filename (remove or delete file.  No undelete)
 
 echo 'hello testing' > test.txt  (puts text into new file "test.txt")
 > test2.txt  (creates new file "test2.txt")
-cat > test3.txt  (alias for file test3.txt,  control x to save?)
+cat > test3.txt  (concatenate/append to file. Control+d to save & exit)
 echo test2.txt  (prints content of text file to screen)
 
 nano  (text editor built-in)
 nano newfile.txt  (opens newfile)
 Control+s  (save)
 Control+x  (exit)
+
+cat command
+
+Create a text file called foo.txt, type:
+
+cat > foo.txt  (single right bracket)
+This is a test.
+I like Unix operating systems.
+(Control + d to save and exit)
+
+Create another file, bar.txt
+
+echo 'For desktop usage I prefer Apple OS X unix operating systems.' > bar.txt
+
+Display both files
+cat foo.txt  (no right bracket)
+cat bar.txt
+
+To append a contains of bar.txt to to foo.txt, enter:
+
+cat bar.txt >> foo.txt  (two right brackets)
+cat foo.txt
+
+To append a ‘Use unix or die’ text to foo.txt file, enter:
+
+echo 'Use unix or die' >> foo.txt  (two right brackets)
+cat foo.txt
