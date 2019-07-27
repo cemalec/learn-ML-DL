@@ -115,8 +115,9 @@ jyoon@Asus-S510:~/dsY/datasciY$ ls
  - Move up cd (space) .. (2 dots)
  - ls and dir both works
  - mkdir  new directory
- - new file?
+ - > newfile.txt  (creates pointer to a new file)
  - pwd (print working directory)
+ - mv  (move or rename file)
  
  ============ Create new file ======================
 ### How to create a file in Linux from terminal window?
@@ -204,7 +205,9 @@ worked, but where is notebook on browser?
 Yeah copied URL.  Also created new notebook & saved it.
 
 
-
+Task 7/26/2019 9:10 PM
+Need to find password for WSL.  Wrote it down carefully in a notebook.  
+Also check password list. 
 
 
 
