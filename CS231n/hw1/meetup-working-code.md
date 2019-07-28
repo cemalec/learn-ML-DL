@@ -54,6 +54,8 @@ https://github.com/colleen-chen/learn--cs231n-
 
 ### Jennifer Yoon -- to add  
 
+    To add my knn blog post & algo.py links
+    To add Vanderplas fancy indexing and argsort numpy link
 
 ### Any others?  
 
