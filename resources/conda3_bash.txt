@@ -1,6 +1,8 @@
 Install notes 7/26/2019 9:23 AM
 
-Manually installed packages to conda3linux
+### Manually installed packages to conda3linux
+
+conda env class
 
  * numpy
  * pandas
@@ -10,15 +12,50 @@ Manually installed packages to conda3linux
  * seaborn (includes statsmodels)
  * pillow
  * future
+ * jupyterlab
 
+conda env base
 
-Linux commands 
+ * jupyter notebook
+ * jupyterlab
+ 
+Size: 5 GB. 
+
+### Update conda:
+  current version: 4.5.4
+  latest version: 4.7.10
+
+Please update conda by running
+
+    $ conda update -n base conda
+    
+### Create conda environment
+conda create -n class  (name "class")
+
+conda install jupyter  
+
+worked, but where is notebook on browser? Manually copy URL.
+
+7/25/2019 6:28 PM
+### How to run Python and Jupyter notebook from WSL bash?
+
+From WSL bash window: type "python"
+jyoon@Asus-S510:~$ python
+
+Python 3.6.5 |Anaconda, Inc.| (default, Apr 29 2018, 16:14:56)
+[GCC 7.2.0] on linux
+>>> import os
+>>> os
+<module 'os' from '/mnt/c/python/conda3linux/lib/python3.6/os.py'>
+
+### Linux commands 
+File names case sensitive, folder names case sensitive.
 
 mv  (rename file as well as move file to new path)
 $home  (goes to default directory, $home/jyoon )
 /mnt/c/python  (file structure on Windows)
 cd /  (goto root)
-rm filename (remove or delete file.  No undelete)
+rm file.txt (remove or delete file.  No undelete)
 
 echo 'hello testing' > test.txt  (puts text into new file "test.txt")
 > test2.txt  (creates new file "test2.txt")
@@ -30,8 +67,7 @@ nano newfile.txt  (opens newfile)
 Control+s  (save)
 Control+x  (exit)
 
-cat command
-
+### cat command
 Create a text file called foo.txt, type:
 
 cat > foo.txt  (single right bracket)
