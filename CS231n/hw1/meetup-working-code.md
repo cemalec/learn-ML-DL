@@ -17,7 +17,7 @@
    
    https://cemalec.github.io/Gradients_Softmax/  
    https://cemalec.github.io/Gradients_Hingeloss/  
-   ttps://cemalec.github.io/Gradients_NN/ (edited)   
+   https://cemalec.github.io/Gradients_NN/ (edited)   
    
    
 ### Colleen Chen: 
